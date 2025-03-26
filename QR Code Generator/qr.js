@@ -46,14 +46,3 @@ clearBtn.addEventListener('click', ()=>{
     inp.value="";
 })
 
-
-
-
-//blob (binary large object) : converts url or response data in file like object
-// are particularly used for working with file data without needing to save it on a server
-//provide a way to work with file data directly in the browser 
-//creating a blob:
-// URL.createObjectURL()
-//          ^
-//          |  
-// <a href=" " download>Download</a>
