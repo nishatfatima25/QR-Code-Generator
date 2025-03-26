@@ -16,7 +16,8 @@ A simple and responsive QR Code Generator built using HTML, CSS, and JavaScript.
 - CSS3 – Styling and responsiveness
 - JavaScript – QR code generation logic
 
- 📷
+ 📷: Preview
+ 
 ![qr1](https://github.com/user-attachments/assets/4e73db84-9eee-494a-a405-bb002c05a8eb)
 
 
